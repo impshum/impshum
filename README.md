@@ -1,4 +1,4 @@
-<center><h1>Let's build something amazing!</h1></center>
+<h1 align="center">Let's build something amazing!</h1>
 
 <table>
  <tr>

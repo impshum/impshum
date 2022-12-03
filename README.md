@@ -12,3 +12,5 @@
     </td>
  </tr>
 </table>
+
+<p align="center"><a class="coffee" href="https://www.buymeacoffee.com/impshum>" width="180px" target="_blank"><img src="coffee.png" alt="Buy Me A Coffee"></a></p>

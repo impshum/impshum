@@ -15,5 +15,4 @@
 
 <p align="center">
 <a class="coffee" href="https://www.buymeacoffee.com/impshum" target="_blank"><img width="200px" src="coffee.png" alt="Buy Me A Coffee"></a>
-<a class="coffee" href="https://ko-fi.com/impshum" target="_blank"><img width="200px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" alt="Ko-Fi"></a>
 </p>
